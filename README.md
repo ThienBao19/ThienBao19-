@@ -1,6 +1,6 @@
 # Hi 👋 I'm Thien Bao
 
-💻 Software Engineering Student  
+💻 Software Engineering  
 🚀 Interested in FullStack / AI 
 📍 Vietnam
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,rust,postgres,git)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,git)
 
 ---
 
