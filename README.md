@@ -1,13 +1,12 @@
-# Hi 👋 I'm Thien Bao
+<h1 align="center">Hi 👋 I'm Thien Bao</h1>
 
-Software Engineering  
-
-I am a **Software Engineering student** passionate about **Full Stack Web Development**.
+<h3 align="center">
+Software Engineering Student | Full Stack Web Developer
+</h3>
 
 I enjoy building web applications, working with both **frontend and backend technologies**, and learning how scalable systems are designed. I continuously improve my skills through personal projects and collaboration.
 
 My goal is to gain real-world experience and grow into a professional **Full Stack Developer**.
-
 
 ---
 
@@ -25,6 +24,4 @@ My goal is to gain real-world experience and grow into a professional **Full Sta
 
 ---
 
-## 📫 Connect with me
 
-- GitHub: https://github.com/ThienBao19
