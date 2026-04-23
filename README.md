@@ -1,7 +1,7 @@
 # Hi 👋 I'm Thien Bao
 
 💻 Software Engineering Student  
-🚀 Interested in Backend / AI / Quant Trading  
+🚀 Interested in FullStack / AI 
 📍 Vietnam
 
 ---
