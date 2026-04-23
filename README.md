@@ -27,7 +27,7 @@ My goal is to gain real-world experience and grow into a professional **Full Sta
 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/bao-gia-669476396">
+  <a href="www.linkedin.com/in/bao-gia-669476396">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
