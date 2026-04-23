@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Thien Bao</h1>
 
 <h3 align="center">
-Software Engineering Student | Full Stack Web Developer
+💻 Software Engineering  |  Web Developer
 </h3>
 
 I enjoy building web applications, working with both **frontend and backend technologies**, and learning how scalable systems are designed. I continuously improve my skills through personal projects and collaboration.
@@ -24,4 +24,10 @@ My goal is to gain real-world experience and grow into a professional **Full Sta
 
 ---
 
+📫 Connect With Me
 
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/bao-gia-669476396/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
