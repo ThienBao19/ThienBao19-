@@ -19,7 +19,9 @@ My goal is to gain real-world experience and grow into a professional **Full Sta
 ## 🏆 Achievements
 
 <p align="left">
-<img src="https://cdn.qwiklabs.com/jgo1MQhfxZWim05TCq3OY2knh9xhpLjnES%2B1IZhub%2F0%3D" width="110"/>
+<a href="https://www.skills.google/public_profiles/abe8275c-027a-404f-bbbd-4c400ce0972c/badges/23871430">
+  <img src="https://cdn.qwiklabs.com/jgo1MQhfxZWim05TCq3OY2knh9xhpLjnES%2B1IZhub%2F0%3D" width="110"/>
+</a>
 </p>
 
 ---
