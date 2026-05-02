@@ -5,7 +5,7 @@
 </h3>
 
 <h3 align="center">
-Don’t wait — there’s no miracle coming. Just keep going
+Don’t wait — there’s no miracle coming Just keep going
 </h3>
 
 I am a Software Engineering enthusiast with experience in both frontend and backend development. I am interested in the following topics: Web Development, Scalable System Design, and Cloud Computing.
