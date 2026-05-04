@@ -30,8 +30,9 @@ I am a Software Engineering enthusiast with experience in both frontend and back
 
 ## 📊 GitHub Stats
 
-![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThienBao19&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThienBao19&layout=compact&theme=tokyonight)
+![Bao's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ThienBao19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThienBao19&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 📫 Connect With Me
 
